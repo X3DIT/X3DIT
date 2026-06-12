@@ -1,475 +1,394 @@
-<!-- HEADER TERMINAL BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=4&section=header&stroke=00ff41&strokeWidth=2" />
-
-```
-██╗  ██╗██████╗ ██████╗ ██╗████████╗
-╚██╗██╔╝╚════██╗██╔══██╗██║╚══██╔══╝
- ╚███╔╝  █████╔╝██║  ██║██║   ██║   
- ██╔██╗  ╚═══██╗██║  ██║██║   ██║   
-██╔╝ ██╗██████╔╝██████╔╝██║   ██║   
-╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝   ╚═╝  
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=55&lines=%5BROOT%40X3DIT+~%5D%24+whoami+--verbose;AI+Developer+%7C+Full+Stack+Engineer+%7C+Systems+Designer)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,12,30&height=220&section=header&text=Madhav%20Krishna&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Designer&descAlignY=65&descSize=16&descColor=e0d7ff&stroke=8b5cf6&strokeWidth=1" />
 
 <br/>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&logo=statuspage&logoColor=00ff41&labelColor=0d0d0d)
-![Threat Level](https://img.shields.io/badge/THREAT_LEVEL-BUILDER-00ff41?style=flat-square&labelColor=0d0d0d)
-![Clearance](https://img.shields.io/badge/CLEARANCE-FULL_STACK-00b4d8?style=flat-square&labelColor=0d0d0d)
-![Location](https://img.shields.io/badge/NODE-Kochi%2C_Kerala-00ff41?style=flat-square&logo=googlemaps&logoColor=00ff41&labelColor=0d0d0d)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Designing+systems%2C+not+slides.;Building+AI-native+products+for+the+real+world.;Making+AI+usable+%E2%80%94+not+just+accessible.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/[_PORTFOLIO_]-yungkrshn.dev-00ff41?style=for-the-badge&logo=firefox&logoColor=00ff41&labelColor=0d0d0d&color=0d0d0d)](https://yungkrshn.dev)
-[![LinkedIn](https://img.shields.io/badge/[_LINKEDIN_]-Connect-00b4d8?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d0d0d&color=0d0d0d)](https://linkedin.com/in/x3dit)
-[![Email](https://img.shields.io/badge/[_EMAIL_]-Transmit-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d0d0d&color=0d0d0d)](mailto:hello@yungkrshn.dev)
-[![GitHub](https://img.shields.io/badge/[_GITHUB_]-Follow-00b4d8?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=0d0d0d&color=0d0d0d)](https://github.com/X3DIT)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yungkrshn.dev-8b5cf6?style=for-the-badge&logo=safari&logoColor=white)](https://yungkrshn.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/x3dit)&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@yungkrshn.dev)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-X3DIT-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=X3DIT&color=00ff41&style=flat-square&label=INTRUSIONS+DETECTED)
-![Followers](https://img.shields.io/github/followers/X3DIT?color=00ff41&style=flat-square&logo=github&label=AGENTS+FOLLOWING&labelColor=0d0d0d)
-![Stars](https://img.shields.io/github/stars/X3DIT?color=00b4d8&style=flat-square&logo=github&label=STARS_EARNED&labelColor=0d0d0d)
+![Views](https://komarev.com/ghpvc/?username=X3DIT&color=8b5cf6&style=flat-square&label=Profile+Views)&nbsp;
+![Followers](https://img.shields.io/github/followers/X3DIT?style=flat-square&color=6366f1&label=Followers&labelColor=1e1b2e)&nbsp;
+![Stars](https://img.shields.io/github/stars/X3DIT?style=flat-square&color=8b5cf6&label=Stars&labelColor=1e1b2e)
 
 </div>
 
 <br/>
 
-<!-- BOOT SEQUENCE -->
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║              [ SYSTEM BOOT — X3DIT KERNEL v2.5.1 ]              ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Initializing...                                                 ║
-║  > Loading identity module .................... [OK]             ║
-║  > Mounting AI subsystems ..................... [OK]             ║
-║  > Establishing full-stack runtime ............ [OK]             ║
-║  > Linking cultural media processes ........... [OK]             ║
-║  > GovTech civic interface online ............. [OK]             ║
-║  > All systems operational. Welcome, operator. [READY]          ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+---
+
+<div align="center">
+<sub>📍 Kochi, Kerala &nbsp;·&nbsp; Head of Media @ Deffenso &nbsp;·&nbsp; Founder @ FrameVerse &nbsp;·&nbsp; Founder @ SouthernSide</sub>
+</div>
 
 ---
 
-## `> cat /etc/operator.conf`
+<br/>
 
-```yaml
-# /etc/operator.conf — X3DIT identity manifest
+## 󱐌 &nbsp;About
 
-handle:       Madhav Krishna  //  Yung.Krshn
-roles:
-  - Head of Media & Frontend Dev  @  Deffenso Hackers Academy
-  - Founder & Creative Director   @  FrameVerse
-  - Founder                       @  SouthernSide [AI Education + GovTech]
+I build end-to-end AI-native products, civic technology systems, and developer tooling at the intersection of engineering and design. My work spans Kerala panchayat-scale complaint infrastructure, ethical hacking education platforms, real-time computer vision, and production SaaS — all designed to be deployable, monetizable, and maintainable from day one.
 
-node:         Kochi, Kerala, India
-kernel:       Computer Science — Kerala SCERT
-uptime:       5+ yrs design  |  3+ yrs freelance  |  active CEH track
+Prompt engineering is architecture. Design is structure. Both need to survive production.
 
-philosophy:   "Designing systems, not slides."
-directive:    Making AI usable — not just accessible.
+On the creative side, I document Kerala's living cultural traditions — Theyyam, Kathakali, Aranmula Vallamkali — through cinematic documentary photography under the FrameVerse brand.
 
-threat_model: Builder. Ships to production. No prototypes.
-```
+<br/>
 
-I build end-to-end AI-native products, civic technology infrastructure, and developer tooling — at the intersection of systems engineering and design. My stack spans from Kerala panchayat-scale complaint routing and ethical hacking education platforms to real-time computer vision and B2B SaaS. Every output is deployable, monetizable, and built to survive production.
+> **Open to** &nbsp;—&nbsp; AI Product Roles &nbsp;·&nbsp; Full Stack Contracts &nbsp;·&nbsp; GovTech Collaborations &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; EdTech Ventures
 
-Prompt engineering is architecture. Design is structure. Both need to work under load.
-
-```bash
-[ROOT@X3DIT ~]$ cat open_to.txt
-
-  > AI Product Engineering Roles
-  > Full Stack Contracts
-  > GovTech & Civic Tech Collaborations  
-  > Open Source Partnerships
-  > EdTech & Cybersecurity Ventures
-```
+<br/>
 
 ---
 
-## `> ls /usr/bin/skills --all`
+## 󰲑 &nbsp;Tech Stack
 
 <div align="center">
 
-**[ LANGUAGES ]**
-
+**Languages**
+<br/>
 [![Skills](https://skillicons.dev/icons?i=py,js,ts,dart,cpp,bash,html,css&theme=dark&perline=8)](https://skillicons.dev)
 
-**[ FRONTEND ]**
+<br/>
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma,svg&theme=dark&perline=8)](https://skillicons.dev)
+**Frontend**
+<br/>
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark&perline=8)](https://skillicons.dev)
 
-**[ BACKEND + DATABASES ]**
+<br/>
 
+**Backend & Databases**
+<br/>
 [![Skills](https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres,mongodb,redis&theme=dark&perline=8)](https://skillicons.dev)
 
-**[ CLOUD + DEVOPS + TOOLING ]**
+<br/>
 
+**Cloud, DevOps & Tooling**
+<br/>
 [![Skills](https://skillicons.dev/icons?i=gcp,vercel,render,docker,githubactions,linux,git,vscode&theme=dark&perline=8)](https://skillicons.dev)
 
 </div>
 
----
-
-## `> sudo cat /var/log/ai_expertise.log`
-
-```
-[DOMAIN]                  [PROFICIENCY]        [PROCESS ID]
-─────────────────────────────────────────────────────────────────────
-LLM Integration           ██████████  EXPERT   Claude API · structured outputs · agents
-Computer Vision           ████████░░  ADV      MediaPipe · OpenCV · real-time gesture
-AI Product Design         ██████████  EXPERT   AI-native UX · human-in-the-loop flows
-Generative AI             ████████░░  ADV      Artifacts · JSON generation · embedded AI
-NLP & Chatbots            ████████░░  ADV      Domain tutors · ethical hacking mentors
-MLOps & Pipelines         ███████░░░  PROF     GitHub Actions · Claude API · RSS pipelines
-Edge AI / On-Device       ██████░░░░  WORKING  Ollama · constrained inference
-Security AI               ███████░░░  PROF     CIPHER · OSINT automation · recon tooling
-─────────────────────────────────────────────────────────────────────
-[INFO] All modules loaded. No critical vulnerabilities detected.
-```
+<br/>
 
 ---
 
-## `> ls /home/X3DIT/projects/ --details`
+## 󰧑 &nbsp;AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Stack |
+|:--|:--:|:--|
+| LLM Integration | `Expert` | Anthropic Claude API · Structured outputs · Multi-turn agents |
+| Computer Vision | `Advanced` | MediaPipe · OpenCV · Real-time gesture detection |
+| AI Product Design | `Expert` | AI-native UX · Human-in-the-loop · Model-embedded workflows |
+| Generative AI | `Advanced` | Claude Artifacts · JSON generation · Embedded AI |
+| NLP & Chatbots | `Advanced` | Domain tutors · Ethical hacking mentors · Study bots |
+| MLOps & Pipelines | `Proficient` | GitHub Actions · Claude API · RSS automation |
+| Edge AI | `Working` | Ollama · On-device inference · Constrained hardware |
+| Security AI | `Proficient` | CIPHER · OSINT automation · Recon tooling |
+
+</div>
+
+<br/>
+
+---
+
+## 󰳐 &nbsp;Featured Projects
 
 <details>
-<summary><code>[PROJECT_001] :: SAHAYI — Kerala Panchayat Complaint System</code></summary>
+<summary>&nbsp;<strong>SAHAYI</strong> &nbsp;—&nbsp; Kerala Panchayat Complaint Management System</summary>
 
 <br/>
 
-```bash
-[ROOT@X3DIT ~]$ ./sahayi --describe
-```
+Civic infrastructure platform digitizing citizen grievance routing across Kerala's panchayat network. District-based complaint routing, FCM push notifications, role-based admin workflows, and multilingual support — built for real government deployment.
 
-Civic infrastructure platform digitizing citizen grievance routing across Kerala's panchayat network. Handles district-based complaint routing, real-time FCM push notifications, role-based admin workflows, and multilingual support — built for actual government deployment.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  SYSTEM: SAHAYI  //  GOVTECH NODE — KERALA DISTRICT GRID        │
-├──────────────────┬──────────────────────────────────────────────┤
-│  STACK           │  React Native · Supabase · PostgreSQL · FCM  │
-│  SCALE           │  Multi-district · Citizen + Officer + Admin   │
-│  PERFORMANCE     │  Realtime via Supabase · <500ms notifications │
-│  SECURITY        │  RLS policies · JWT auth · Role-scoped data   │
-│  IMPACT          │  Full complaint lifecycle — submit→resolution  │
-│  REPOSITORY      │  github.com/X3DIT/sahayi                      │
-└──────────────────┴──────────────────────────────────────────────┘
-```
-
-SAHAYI was architected as a full PRD suite — citizen app, admin dashboard, and tech stack spec — proving that GovTech can be built with the same engineering discipline as enterprise SaaS.
-
-```bash
-[STATUS] >> Production-ready. PRD complete. Scaffolding in progress.
-```
 <br/>
+
+| | |
+|:--|:--|
+| **Stack** | React Native · Supabase · PostgreSQL · Firebase Cloud Messaging |
+| **Scale** | Multi-district · Citizen + Officer + Admin roles |
+| **Performance** | Supabase Realtime · Sub-500ms notification delivery |
+| **Security** | Row-level security · JWT auth · Role-scoped data access |
+| **Impact** | Full complaint lifecycle — submission to resolution |
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/Repository-SAHAYI-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/sahayi)
+
+<br/>
+
 </details>
 
 <details>
-<summary><code>[PROJECT_002] :: DFLMS — Deffenso Hacker Academy LMS</code></summary>
+<summary>&nbsp;<strong>DFLMS</strong> &nbsp;—&nbsp; Deffenso Hackers Academy LMS</summary>
 
 <br/>
 
-```bash
-[ROOT@X3DIT ~]$ ./dflms --describe
-```
+Full-featured Learning Management System for Kerala's premier cybersecurity EdTech institution. Role-based access, progressive video unlocking, quiz engine, and automated certificate generation — wrapped in a dark hacker aesthetic UI.
 
-Full-featured Learning Management System for Kerala's premier cybersecurity EdTech institution. Role-based access, progressive video unlocking, quiz engine, and automated certificate generation — wrapped in a dark hacker aesthetic.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  SYSTEM: DFLMS  //  CYBERSEC EDUCATION NODE                     │
-├──────────────────┬──────────────────────────────────────────────┤
-│  STACK           │  React · Firebase · Firestore · Apps Script   │
-│  SCALE           │  Multi-role: student · instructor · admin     │
-│  PERFORMANCE     │  Lazy-loaded modules · Firebase CDN delivery  │
-│  SECURITY        │  Firebase Auth · Role-scoped Firestore rules  │
-│  IMPACT          │  Deployed: deffenso.in + lms.deffenso.in      │
-│  REPOSITORY      │  github.com/X3DIT/dflms                       │
-└──────────────────┴──────────────────────────────────────────────┘
-```
-
-Certificate automation runs on Google Apps Script — generates tamper-resistant PDFs on course completion with zero manual intervention.
-
-```bash
-[STATUS] >> LIVE. Multi-site deployed via GoDaddy DNS + Firebase Hosting.
-```
 <br/>
+
+| | |
+|:--|:--|
+| **Stack** | React · Firebase · Firestore · Google Apps Script |
+| **Scale** | Multi-role — students, instructors, admins |
+| **Performance** | Lazy-loaded modules · Firebase CDN delivery |
+| **Security** | Firebase Auth · Role-scoped Firestore rules |
+| **Impact** | Live at deffenso.in + lms.deffenso.in |
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/Repository-DFLMS-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/dflms)
+
+<br/>
+
 </details>
 
 <details>
-<summary><code>[PROJECT_003] :: CIPHER AI — Ethical Hacking Mentor (B2B SaaS)</code></summary>
+<summary>&nbsp;<strong>CIPHER AI</strong> &nbsp;—&nbsp; Ethical Hacking Mentor · B2B SaaS</summary>
 
 <br/>
 
-```bash
-[ROOT@X3DIT ~]$ ./cipher --describe
-```
+AI-powered ethical hacking mentor for cybersecurity training institutes. Delivers CEH-aligned guidance on OSINT, penetration testing, and security tooling — scoped strictly to educational and authorized contexts. Multi-tenant, subscription-based.
 
-AI-powered ethical hacking mentor platform built for cybersecurity training institutes. CIPHER delivers CEH-aligned guidance on OSINT, penetration testing methodology, and security tooling — scoped strictly to educational and authorized contexts.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  SYSTEM: CIPHER  //  AI SECURITY MENTOR — B2B NODE             │
-├──────────────────┬──────────────────────────────────────────────┤
-│  STACK           │  Next.js · Supabase · Claude API · Razorpay  │
-│  SCALE           │  Multi-tenant SaaS · Per-seat licensing       │
-│  PERFORMANCE     │  Streamed responses · Persistent threads      │
-│  SECURITY        │  Institute-scoped isolation · Ethical guards  │
-│  IMPACT          │  CEH-aligned AI tutor replacing generic LLMs  │
-│  REPOSITORY      │  github.com/X3DIT/cipher-ai                   │
-└──────────────────┴──────────────────────────────────────────────┘
-```
-
-The system prompt architecture prevents misuse while delivering authoritative, curriculum-aligned guidance. Monetized via Razorpay subscriptions.
-
-```bash
-[STATUS] >> Launch phase. B2B SaaS architecture complete.
-```
 <br/>
+
+| | |
+|:--|:--|
+| **Stack** | Next.js · Supabase · Anthropic Claude API · Razorpay |
+| **Scale** | Multi-tenant SaaS · Per-seat licensing model |
+| **Performance** | Streamed Claude responses · Persistent conversation threads |
+| **Security** | Institute-scoped isolation · Auth-gated routes · Ethical guardrails |
+| **Impact** | CEH-aligned AI tutor replacing generic LLMs in security education |
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/Repository-CIPHER--AI-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/cipher-ai)
+
+<br/>
+
 </details>
 
 <details>
-<summary><code>[PROJECT_004] :: WalkERA — React Native Fitness App</code></summary>
+<summary>&nbsp;<strong>WalkERA</strong> &nbsp;—&nbsp; React Native Fitness App</summary>
 
 <br/>
 
-```bash
-[ROOT@X3DIT ~]$ ./walkera --describe
-```
+Production React Native fitness tracking app with GPS activity tracking, Firebase authentication, and RevenueCat-powered monetization. 15 fully designed screens. Cross-platform iOS + Android. Built for SouthernSide's wellness vertical.
 
-Production React Native fitness tracking app with GPS activity tracking, Firebase authentication, and RevenueCat-powered monetization. 15 fully designed screens. Cross-platform. Built for SouthernSide's wellness vertical.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  SYSTEM: WALKERA  //  MOBILE NODE — iOS + ANDROID               │
-├──────────────────┬──────────────────────────────────────────────┤
-│  STACK           │  React Native · Firebase · RevenueCat · Expo  │
-│  SCALE           │  15 screens · iOS + Android cross-platform    │
-│  PERFORMANCE     │  Real-time GPS · Background location tracking │
-│  SECURITY        │  Firebase Auth · Scoped user data storage     │
-│  IMPACT          │  Full monetization: free tier → subscriptions │
-│  REPOSITORY      │  github.com/X3DIT/walkera                     │
-└──────────────────┴──────────────────────────────────────────────┘
-```
-
-Every screen was spec'd, designed, and implemented as a production deliverable. Not a prototype.
-
-```bash
-[STATUS] >> Complete. RevenueCat monetization loop active.
-```
 <br/>
+
+| | |
+|:--|:--|
+| **Stack** | React Native · Firebase · RevenueCat · Expo |
+| **Scale** | 15 screens · iOS + Android |
+| **Performance** | Real-time GPS · Background location tracking |
+| **Security** | Firebase Auth · Scoped user data |
+| **Impact** | Full monetization loop — free tier to premium subscriptions |
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/Repository-WalkERA-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/walkera)
+
+<br/>
+
 </details>
 
 <details>
-<summary><code>[PROJECT_005] :: SouthernSide Cert System — Node / Supabase / React</code></summary>
+<summary>&nbsp;<strong>SouthernSide Cert System</strong> &nbsp;—&nbsp; Node.js · Supabase · React</summary>
 
 <br/>
 
-```bash
-[ROOT@X3DIT ~]$ ./cert-system --describe
-```
+Automated certificate management and public verification system for SouthernSide's AI education programs. Node.js / Express API + Supabase backend with a React CertDashboard for bulk issuance, revocation, and instant verification.
 
-Automated certificate management and verification system for SouthernSide's AI education programs. Node.js / Express API + Supabase backend. React CertDashboard for bulk issuance, revocation, and public verification.
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  SYSTEM: CERT_SYSTEM  //  CREDENTIAL VERIFICATION NODE          │
-├──────────────────┬──────────────────────────────────────────────┤
-│  STACK           │  Node.js · Express · Supabase · React        │
-│  SCALE           │  Bulk issuance · Public verify endpoints      │
-│  PERFORMANCE     │  Serverless-compatible · Fast Supabase reads  │
-│  SECURITY        │  UUID tokens · Tamper detection · Public URLs │
-│  IMPACT          │  Zero manual workflows · Instant verification │
-│  REPOSITORY      │  github.com/X3DIT/southernside-certs          │
-└──────────────────┴──────────────────────────────────────────────┘
-```
-
-UUID-linked public verification pages allow anyone to confirm credential authenticity via a single URL.
-
-```bash
-[STATUS] >> LIVE. Deployed on Vercel (frontend) + Render (backend).
-```
 <br/>
+
+| | |
+|:--|:--|
+| **Stack** | Node.js · Express · Supabase · PostgreSQL · React |
+| **Scale** | Bulk generation · Public verification endpoints |
+| **Performance** | Serverless-compatible · Fast Supabase queries |
+| **Security** | UUID tokens · Tamper detection · Public verify routes |
+| **Impact** | Zero manual workflows · Instant credential verification via URL |
+
+<br/>
+
+[![View Repo](https://img.shields.io/badge/Repository-Cert--System-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/southernside-certs)
+
+<br/>
+
 </details>
 
+<br/>
+
 ---
 
-## `> cat /var/log/experience.log`
+## 󰓒 &nbsp;Experience
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║  [PROCESS] Head of Media & Frontend Dev                          ║
-║  [NODE]    Deffenso Hackers Academy                              ║
-║  [UPTIME]  Jan 2024 → Present                                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  > Architected full Deffenso website (dark cyberpunk SPA)        ║
-║  > Built DFLMS: role-based LMS + quiz engine + cert automation   ║
-║  > Designed DJEH event brochure, course pages, templates         ║
-║  > Executed authorized pentest on deffenso.in — full report      ║
-║  > Full-stack engineering partner for all product decisions       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+**Head of Media & Frontend Developer** &nbsp;·&nbsp; Deffenso Hackers Academy &nbsp;·&nbsp; `Jan 2024 – Present`
 
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00ff41)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=00ff41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=00b4d8)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=00ff41)
+- Architected the full Deffenso website — dark cyberpunk SPA, mobile-first, `#007BFF` blue system
+- Built DFLMS with role-based access, video unlocking, quiz engine, and automated certificate generation
+- Designed all event collateral — DJEH brochure, course pages, certificate templates, founders section
+- Conducted authorized penetration testing on deffenso.in with full findings and remediation report
+
+![React](https://img.shields.io/badge/React-1e1b2e?style=flat-square&logo=react&logoColor=8b5cf6)
+![Firebase](https://img.shields.io/badge/Firebase-1e1b2e?style=flat-square&logo=firebase&logoColor=8b5cf6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1b2e?style=flat-square&logo=javascript&logoColor=8b5cf6)
+![Figma](https://img.shields.io/badge/Figma-1e1b2e?style=flat-square&logo=figma&logoColor=8b5cf6)
+![Linux](https://img.shields.io/badge/Linux-1e1b2e?style=flat-square&logo=linux&logoColor=8b5cf6)
 
 <br/>
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║  [PROCESS] Founder & Creative Director                           ║
-║  [NODE]    FrameVerse                                            ║
-║  [UPTIME]  2023 → Present                                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  > Built full FrameVerse studio website (cinematic editorial)    ║
-║  > Documented Theyyam, Kathakali, Aranmula Vallamkali            ║
-║  > Designed Yung.Krshn portfolio: masonry gallery + lightbox     ║
-║  > Established complete brand identity & typography system       ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+**Founder & Creative Director** &nbsp;·&nbsp; FrameVerse &nbsp;·&nbsp; `2023 – Present`
 
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=00b4d8)
-![Lightroom](https://img.shields.io/badge/Lightroom-0d0d0d?style=flat-square&logo=adobelightroom&logoColor=00b4d8)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=00b4d8)
+- Built the complete FrameVerse studio website — cinematic editorial, Cormorant Garamond, gold accents
+- Documented Theyyam, Kathakali, and Aranmula Vallamkali through long-form cinematic photography
+- Designed the Yung.Krshn photography portfolio — masonry gallery, lightbox system, progressive UI
+
+![Figma](https://img.shields.io/badge/Figma-1e1b2e?style=flat-square&logo=figma&logoColor=8b5cf6)
+![Lightroom](https://img.shields.io/badge/Lightroom-1e1b2e?style=flat-square&logo=adobelightroom&logoColor=8b5cf6)
+![HTML5](https://img.shields.io/badge/HTML5-1e1b2e?style=flat-square&logo=html5&logoColor=8b5cf6)
 
 <br/>
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║  [PROCESS] Founder                                               ║
-║  [NODE]    SouthernSide — AI Education & GovTech                 ║
-║  [UPTIME]  2024 → Present                                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  > Built website, trilingual company profile, content calendar   ║
-║  > Shipped Vidya AI chatbot + social analytics dashboard         ║
-║  > Led WalkERA: 15-screen RN app + Firebase + RevenueCat         ║
-║  > Deployed all infra: Vercel (frontend) + Render (backend)      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+**Founder** &nbsp;·&nbsp; SouthernSide &nbsp;·&nbsp; `2024 – Present`
 
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=00ff41)
-![Supabase](https://img.shields.io/badge/Supabase-0d0d0d?style=flat-square&logo=supabase&logoColor=00ff41)
-![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=00b4d8)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=00ff41)
-![Vercel](https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=00b4d8)
+- Built the SouthernSide website, trilingual company profile, and 12-week content calendar
+- Shipped Vidya AI chatbot, social analytics dashboard, and automated certificate system
+- Led WalkERA — full 15-screen React Native app with Firebase, GPS tracking, and RevenueCat
+
+![Next.js](https://img.shields.io/badge/Next.js-1e1b2e?style=flat-square&logo=nextdotjs&logoColor=8b5cf6)
+![Supabase](https://img.shields.io/badge/Supabase-1e1b2e?style=flat-square&logo=supabase&logoColor=8b5cf6)
+![React Native](https://img.shields.io/badge/React%20Native-1e1b2e?style=flat-square&logo=react&logoColor=8b5cf6)
+![Node.js](https://img.shields.io/badge/Node.js-1e1b2e?style=flat-square&logo=nodedotjs&logoColor=8b5cf6)
+
+<br/>
 
 ---
 
-## `> grep -r "achievements" /var/log/system.log`
+## 󱉯 &nbsp;Achievements
 
 <div align="center">
 
-```
-┌──────────────────────────────────┬────────────────────────────────────────────┐
-│  RECOGNITION                     │  DETAILS                                   │
-├──────────────────────────────────┼────────────────────────────────────────────┤
-│  GovTech Architect               │  SAHAYI — district-scale panchayat system  │
-│  Authorized Pentester            │  Live pentest on deffenso.in + full report │
-│  AI Product Developer            │  Shipped Claude API tools across 3 orgs    │
-│  Mobile App Founder              │  WalkERA — 15 screens, monetized, shipped  │
-│  Cybersecurity Educator          │  CEH track + CIPHER AI mentor platform     │
-│  Cultural Documentarian          │  Theyyam · Kathakali · Aranmula Vallamkali │
-│  LinkedIn Automation Engineer    │  GitHub Actions + Claude API + RSS pipeline│
-│  5+ Yr Design Operator           │  EdTech · GovTech · SaaS · Cultural Media  │
-└──────────────────────────────────┴────────────────────────────────────────────┘
-```
+| Recognition | Details |
+|:--|:--|
+| GovTech Architect | Designed SAHAYI — district-scale panchayat complaint system for Kerala |
+| Authorized Pentester | Conducted live pentest on deffenso.in with full findings report |
+| AI Product Developer | Shipped Claude API-powered tools across 3 organizations |
+| Mobile App Founder | Built and monetized WalkERA — 15 screens, GPS, RevenueCat |
+| Cybersecurity Educator | Active CEH track + CIPHER AI mentor platform |
+| Cultural Documentarian | Documented Theyyam · Kathakali · Aranmula Vallamkali |
+| Automation Engineer | GitHub Actions + Claude API + RSS autonomous content pipeline |
+| 5+ Yr Design Operator | EdTech · GovTech · SaaS · Cultural Media |
 
 </div>
+
+<br/>
 
 ---
 
-## `> ls /etc/certifications/ --group-by provider`
+## 󰄬 &nbsp;Certifications
 
 <div align="center">
 
-**[ CYBERSECURITY ]**
+**Cybersecurity & Networking**
 
-![CEH](https://img.shields.io/badge/CEH-In_Progress-00ff41?style=for-the-badge&logo=hackthebox&logoColor=00ff41&labelColor=0d0d0d)
-![Cisco](https://img.shields.io/badge/CISCO-Networking_Fundamentals-00b4d8?style=for-the-badge&logo=cisco&logoColor=00b4d8&labelColor=0d0d0d)
-![Cisco](https://img.shields.io/badge/CISCO-Cybersecurity_Essentials-00b4d8?style=for-the-badge&logo=cisco&logoColor=00b4d8&labelColor=0d0d0d)
+[![CEH](https://img.shields.io/badge/CEH-In%20Progress-8b5cf6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://eccouncil.org)&nbsp;
+[![Cisco](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://netacad.com)&nbsp;
+[![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://netacad.com)
 
-**[ CLOUD ]**
+<br/>
 
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-00ff41?style=for-the-badge&logo=amazonaws&logoColor=00ff41&labelColor=0d0d0d)
-![Oracle](https://img.shields.io/badge/ORACLE-Cloud_Infrastructure-00b4d8?style=for-the-badge&logo=oracle&logoColor=00b4d8&labelColor=0d0d0d)
+**Cloud**
 
-**[ ACADEMIC ]**
+[![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-8b5cf6?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)&nbsp;
+[![Oracle](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-6366f1?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Programming_in_Python-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d0d0d)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data_Structures_%26_Algorithms-00ff41?style=for-the-badge&logo=databricks&logoColor=00ff41&labelColor=0d0d0d)
-![NPTEL](https://img.shields.io/badge/NPTEL-Joy_of_Computing-00b4d8?style=for-the-badge&logo=numpy&logoColor=00b4d8&labelColor=0d0d0d)
+<br/>
+
+**Academic**
+
+[![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-8b5cf6?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in)&nbsp;
+[![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6366f1?style=for-the-badge&logo=databricks&logoColor=white)](https://nptel.ac.in)&nbsp;
+[![NPTEL](https://img.shields.io/badge/NPTEL-Joy%20of%20Computing-8b5cf6?style=for-the-badge&logo=numpy&logoColor=white)](https://nptel.ac.in)
 
 </div>
+
+<br/>
 
 ---
 
-## `> netstat -an | grep CODING_PROFILES`
+## 󰋊 &nbsp;Coding Profiles
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LEETCODE-[_CONNECT_]-00ff41?style=for-the-badge&logo=leetcode&logoColor=00ff41&labelColor=0d0d0d)](https://leetcode.com/X3DIT)
-[![GeeksforGeeks](https://img.shields.io/badge/GEEKSFORGEEKS-[_CONNECT_]-00b4d8?style=for-the-badge&logo=geeksforgeeks&logoColor=00b4d8&labelColor=0d0d0d)](https://geeksforgeeks.org/user/X3DIT)
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-[_CONNECT_]-00ff41?style=for-the-badge&logo=hackerrank&logoColor=00ff41&labelColor=0d0d0d)](https://hackerrank.com/X3DIT)
-[![CodeChef](https://img.shields.io/badge/CODECHEF-[_CONNECT_]-00b4d8?style=for-the-badge&logo=codechef&logoColor=00b4d8&labelColor=0d0d0d)](https://codechef.com/users/X3DIT)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8b5cf6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/X3DIT)&nbsp;
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/X3DIT)&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8b5cf6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/X3DIT)&nbsp;
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6366f1?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/X3DIT)
 
 </div>
+
+<br/>
 
 ---
 
-## `> ./run_analytics.sh --github X3DIT`
+## 󰄢 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=X3DIT&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00b4d8&text_color=00ff41&ring_color=00ff41" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3DIT&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=00ff41" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=X3DIT&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=13111e&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=X3DIT&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=13111e&title_color=a78bfa&text_color=c4b5fd" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=X3DIT&theme=dark&hide_border=true&background=0d0d0d&ring=00ff41&fire=00b4d8&currStreakLabel=00ff41&sideLabels=00ff41&currStreakNum=00ff41&sideNums=00b4d8&dates=444444&stroke=00ff41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=X3DIT&theme=tokyonight&hide_border=true&background=13111e&ring=8b5cf6&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&currStreakNum=a78bfa&sideNums=8b5cf6&dates=6d6a8a" />
 
 </div>
+
+<br/>
 
 ---
 
-## `> trophy --scan X3DIT --format matrix`
+## 󱉸 &nbsp;Trophies
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=X3DIT&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=X3DIT&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
+<br/>
+
 ---
 
-## `> tail -f /var/log/contribution_activity.log`
+## 󰊪 &nbsp;Contribution Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=X3DIT&bg_color=0d0d0d&color=00ff41&line=00b4d8&point=00ff41&area=true&area_color=003300&hide_border=true&custom_title=%5BROOT%40X3DIT%5D+Contribution+Signal+Monitor)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=X3DIT&bg_color=13111e&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&area_color=2d1b69&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
+<br/>
+
 ---
 
-## `> watch -n 1 snake --render grid`
+## 󱏿 &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -481,77 +400,62 @@ UUID-linked public verification pages allow anyone to confirm credential authent
 
 </div>
 
+<br/>
+
 ---
 
-## `> cat /proc/current_mission`
+## 󰋁 &nbsp;Current Focus
 
 ```yaml
-# /proc/current_mission  —  live operator context
-
-timestamp: 2025-active
-
 learning:
-  - CEH domain progression          # active study track
-  - Supabase RLS + edge functions    # advanced policies
-  - React Native native modules      # performance optimization
-  - Anthropic tool use + agents      # multi-agent orchestration
+  - CEH domain progression
+  - Supabase RLS + edge functions
+  - React Native native modules
+  - Anthropic tool use and multi-agent orchestration
 
 building:
-  - SAHAYI          # Kerala panchayat system — production scaffolding
-  - CIPHER AI       # B2B SaaS for cybersec institutes — launch phase
-  - Yung.Krshn      # cinematic editorial portfolio — shipped
-  - NEXUS           # personal productivity dashboard — planning
+  - SAHAYI      # Kerala panchayat system — production
+  - CIPHER AI   # B2B SaaS for cybersec institutes — launch phase
+  - NEXUS       # Personal productivity dashboard — planning
 
 exploring:
-  - GovTech patterns at district scale
-  - Pentest report SaaS vertical
-  - AI-native personal finance for Indian market
-  - On-device inference via Ollama for privacy-first apps
+  - GovTech infrastructure at district scale
+  - Pentest report generation as a SaaS vertical
+  - AI-native personal finance for the Indian market
+  - On-device inference with Ollama
 
 open_to:
-  - AI product engineering roles [full-time | contract]
+  - AI product engineering roles
   - GovTech and civic tech collaborations
-  - Open source maintainership in AI tooling
+  - Open source in AI tooling
   - EdTech and cybersecurity ventures
-  - Fractional CTO engagements
 ```
+
+<br/>
 
 ---
 
-## `> ping --all-nodes /connect`
+## 󰛻 &nbsp;Connect
 
 <div align="center">
 
-```
-PING gmail ............. hello@yungkrshn.dev .......... [OPEN]
-PING linkedin .......... /in/x3dit ..................... [OPEN]
-PING github ............ /X3DIT ........................ [OPEN]
-PING portfolio ......... yungkrshn.dev ................. [OPEN]
-```
-
-[![Gmail](https://img.shields.io/badge/GMAIL-hello%40yungkrshn.dev-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0d0d0d)](mailto:hello@yungkrshn.dev)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-x3dit-00b4d8?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=0d0d0d)](https://linkedin.com/in/x3dit)
-[![GitHub](https://img.shields.io/badge/GITHUB-X3DIT-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0d0d)](https://github.com/X3DIT)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-yungkrshn.dev-00b4d8?style=for-the-badge&logo=firefox&logoColor=00b4d8&labelColor=0d0d0d)](https://yungkrshn.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-hello%40yungkrshn.dev-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@yungkrshn.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-x3dit-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/x3dit)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-X3DIT-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-yungkrshn.dev-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://yungkrshn.dev)
 
 </div>
 
+<br/>
+
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
-```bash
-[ROOT@X3DIT ~]$ shutdown --quote
+<sub><i>The systems you design outlast the slides you present. Build for permanence.</i></sub>
 
-  "The systems you build outlast the slides you present.
-   Build for permanence. Ship to production. Leave no prototypes."
+<br/><br/>
 
-                                              — X3DIT  //  Yung.Krshn
-
-[PROCESS COMPLETE] ......................................... [EXIT 0]
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=4&section=footer&stroke=00ff41&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,30&height=100&section=footer&animation=fadeIn" />
 
 </div>
