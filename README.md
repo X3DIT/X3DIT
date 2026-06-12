@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,12,30&height=220&section=header&text=Madhav%20Krishna&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Developer%20%E2%80%A2%20Full%20Stack%20Engineer%20%E2%80%A2%20Systems%20Designer&descAlignY=65&descSize=16&descColor=e0d7ff&stroke=8b5cf6&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,4,12,30&height=200&section=header&text=Madhav%20Manu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Researcher%20%E2%80%A2%20Builder%20%E2%80%A2%20Pathanamthitta%2C%20Kerala&descAlignY=65&descSize=15&descColor=e0d7ff" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=Designing+systems%2C+not+slides.;Building+AI-native+products+for+the+real+world.;Making+AI+usable+%E2%80%94+not+just+accessible.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=45&lines=A+kid+who+loves+AI.;Designing+systems%2C+not+slides.;Building+real+AI+infrastructure.;Practical.+Ethical.+Deployable.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yungkrshn.dev-8b5cf6?style=for-the-badge&logo=safari&logoColor=white)](https://yungkrshn.dev)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/x3dit)&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@yungkrshn.dev)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-X3DIT-4f46e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT)
+[![Portfolio](https://img.shields.io/badge/Portfolio-madhavmanu.dev-8b5cf6?style=for-the-badge&logo=safari&logoColor=white)](https://madhavmanu.dev)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhav--manu-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-manu)&nbsp;
+[![Email](https://img.shields.io/badge/Email-manumadhav581-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manumadhav581@gmail.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@5yung.krshn-4f46e5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/5yung.krshn)
 
 <br/>
 
@@ -19,139 +19,195 @@
 ![Followers](https://img.shields.io/github/followers/X3DIT?style=flat-square&color=6366f1&label=Followers&labelColor=1e1b2e)&nbsp;
 ![Stars](https://img.shields.io/github/stars/X3DIT?style=flat-square&color=8b5cf6&label=Stars&labelColor=1e1b2e)
 
-</div>
-
 <br/>
 
----
+<sub>📍 10.8505° N · 76.2711° E &nbsp;·&nbsp; Kerala Node &nbsp;·&nbsp; IST</sub>
 
-<div align="center">
-<sub>📍 Kochi, Kerala &nbsp;·&nbsp; Head of Media @ Deffenso &nbsp;·&nbsp; Founder @ FrameVerse &nbsp;·&nbsp; Founder @ SouthernSide</sub>
 </div>
 
 ---
 
-<br/>
+## &nbsp;About
 
-## 󱐌 &nbsp;About
+I'm Madhav Manu — a builder from Pathanamthitta, Kerala. Just finished 12th grade (Computer Science), but I've been shipping real-world systems since 2022.
 
-I build end-to-end AI-native products, civic technology systems, and developer tooling at the intersection of engineering and design. My work spans Kerala panchayat-scale complaint infrastructure, ethical hacking education platforms, real-time computer vision, and production SaaS — all designed to be deployable, monetizable, and maintainable from day one.
+I live and breathe AI research — not from textbooks, but from hands-on experimentation. I track real-world AI news daily, test new models as they drop, and build tools that actually do something useful. Python and C++ are my thinking language; the browser is where I ship.
 
-Prompt engineering is architecture. Design is structure. Both need to survive production.
+I'm growing deep into cybersecurity — pursuing CEH, working through Kali Linux, network analysis, and OSINT. Security isn't separate from my AI work — it's how I make sure what I build doesn't break the world.
 
-On the creative side, I document Kerala's living cultural traditions — Theyyam, Kathakali, Aranmula Vallamkali — through cinematic documentary photography under the FrameVerse brand.
-
-<br/>
-
-> **Open to** &nbsp;—&nbsp; AI Product Roles &nbsp;·&nbsp; Full Stack Contracts &nbsp;·&nbsp; GovTech Collaborations &nbsp;·&nbsp; Open Source &nbsp;·&nbsp; EdTech Ventures
+> *"I don't ask what AI is — I ask how to make it work end-to-end."*
 
 <br/>
+
+| | |
+|:--|:--|
+| **Roles** | AI Researcher · Full-Stack Dev · Cybersec Learner · Founder · Creative Director |
+| **Currently** | Deffenso Hackers Academy · SouthernSide · FrameVerse |
+| **AI Stack** | Claude Sonnet · Gemini 2.5 Pro · GPT-4o · Mistral |
+| **Tooling** | n8n · Make.com · Cursor · Claude Code · GitHub Actions |
+| **Learning** | CEH · RAG Architecture · Vector DBs · LLM Fine-tuning |
+| **Open To** | AI Systems · GovTech · EdTech · Cybersec Research · Freelance |
 
 ---
 
-## 󰲑 &nbsp;Tech Stack
+## &nbsp;Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=py,js,ts,dart,cpp,bash,html,css&theme=dark&perline=8)](https://skillicons.dev)
+**AI & Automation**
+
+[![Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow&theme=dark&perline=8)](https://skillicons.dev)
+
+`Claude Sonnet` &nbsp;·&nbsp; `Gemini 2.5 Pro` &nbsp;·&nbsp; `GPT-4o` &nbsp;·&nbsp; `Mistral` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `RAG` &nbsp;·&nbsp; `n8n` &nbsp;·&nbsp; `Make.com`
 
 <br/>
 
-**Frontend**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark&perline=8)](https://skillicons.dev)
+**Web & Mobile**
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express&theme=dark&perline=8)](https://skillicons.dev)
 
 <br/>
 
 **Backend & Databases**
-<br/>
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,postgres,mongodb,redis&theme=dark&perline=8)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=firebase,supabase,postgres,mongodb&theme=dark&perline=8)](https://skillicons.dev)
 
 <br/>
 
-**Cloud, DevOps & Tooling**
+**Design & Motion**
+
+[![Skills](https://skillicons.dev/icons?i=figma,ae,pr,blender&theme=dark&perline=8)](https://skillicons.dev)
+
 <br/>
-[![Skills](https://skillicons.dev/icons?i=gcp,vercel,render,docker,githubactions,linux,git,vscode&theme=dark&perline=8)](https://skillicons.dev)
+
+**DevOps & Security**
+
+[![Skills](https://skillicons.dev/icons?i=linux,git,githubactions,vscode&theme=dark&perline=8)](https://skillicons.dev)
+
+`Kali Linux` &nbsp;·&nbsp; `Nmap` &nbsp;·&nbsp; `OSINT` &nbsp;·&nbsp; `Metasploit` &nbsp;·&nbsp; `Claude Code` &nbsp;·&nbsp; `Cursor`
 
 </div>
 
-<br/>
-
 ---
 
-## 󰧑 &nbsp;AI / ML Expertise
+## &nbsp;AI Research Lab
+
+> Not consuming AI. Interrogating it.
+
+I track AI news daily, run local experiments, test models as they release, and find the edge cases nobody talks about.
 
 <div align="center">
 
-| Domain | Proficiency | Stack |
-|:--|:--:|:--|
-| LLM Integration | `Expert` | Anthropic Claude API · Structured outputs · Multi-turn agents |
-| Computer Vision | `Advanced` | MediaPipe · OpenCV · Real-time gesture detection |
-| AI Product Design | `Expert` | AI-native UX · Human-in-the-loop · Model-embedded workflows |
-| Generative AI | `Advanced` | Claude Artifacts · JSON generation · Embedded AI |
-| NLP & Chatbots | `Advanced` | Domain tutors · Ethical hacking mentors · Study bots |
-| MLOps & Pipelines | `Proficient` | GitHub Actions · Claude API · RSS automation |
-| Edge AI | `Working` | Ollama · On-device inference · Constrained hardware |
-| Security AI | `Proficient` | CIPHER · OSINT automation · Recon tooling |
+| Domain | Focus | Active Stack |
+|:--|:--|:--|
+| **LLM Research** | Prompt engineering · RAG pipelines · Model comparisons · Real task perf | Claude S. · Gemini 2.5 · GPT-4o · Mistral |
+| **AI + Security** | Jailbreak resistance · AI-assisted OSINT · Vulnerability analysis | Kali · Nmap · OSINT · CEH |
+| **Applied AI** | Production AI tools · WhatsApp bots · Bilingual chatbots · Multi-LLM | Python · Node.js · LangChain · APIs |
+| **Automation** | Workflow orchestration · Institutional automation · GovTech pipelines | n8n · Make.com · GitHub Actions |
 
 </div>
 
 <br/>
 
+```python
+# Vidya AI — bilingual study assistant
+import google.generativeai as genai
+from langchain.vectorstores import Chroma
+
+class VidyaAI:
+    def __init__(self):
+        self.model = genai.GenerativeModel("gemini-2.5-pro")
+        self.lang  = ["ml", "en"]
+
+# RAG pipeline — Kerala panchayat bot
+def query_citizens(q, lang="ml"):
+    docs = retriever.get_relevant_documents(q)
+    return llm.invoke(prompt, context=docs)
+```
+
 ---
 
-## 󰳐 &nbsp;Featured Projects
+## &nbsp;Ventures
+
+<details>
+<summary>&nbsp;<strong>Deffenso Hackers Academy</strong> &nbsp;—&nbsp; CMO & Full AI Stack Developer &nbsp;·&nbsp; <code>Live</code></summary>
+
+<br/>
+
+Cybersecurity education startup in Kerala. Built the complete digital infrastructure — public website to a production-grade LMS — solo. Handles media strategy, brand positioning, content systems, and growth architecture.
+
+| | |
+|:--|:--|
+| **Stack** | React · Firebase · Firestore · Google Apps Script · Figma |
+| **Role** | CMO · Full AI Stack Developer |
+| **Built** | Public website · DFLMS · Certificate automation · Event collateral |
+| **Pentest** | Authorized pentest on deffenso.in — full findings + remediation report |
+| **Live at** | deffenso.in · lms.deffenso.in |
+
+[![Deffenso](https://img.shields.io/badge/Deffenso-deffenso.in-8b5cf6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://deffenso.in)
+
+<br/>
+</details>
+
+<details>
+<summary>&nbsp;<strong>SouthernSide</strong> &nbsp;—&nbsp; Founder & AI Educator &nbsp;·&nbsp; <code>In Development</code></summary>
+
+<br/>
+
+AI education and GovTech initiative making AI practical, ethical, and accessible for rural and semi-urban India. Subscription-based AI tools and automation systems that simplify institutional workflows and improve public accessibility. Designed for schools, government bodies, startups, and institutions.
+
+| | |
+|:--|:--|
+| **Stack** | Next.js · Supabase · Node.js · React Native · Claude API |
+| **Built** | Vidya AI · WalkERA · Cert System · Analytics Dashboard |
+| **Mission** | AI literacy + GovTech for underserved India |
+| **Deployed** | Vercel (frontend) · Render (backend) |
+
+[![SouthernSide](https://img.shields.io/badge/SouthernSide-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://southernside.in)
+
+<br/>
+</details>
+
+<details>
+<summary>&nbsp;<strong>FrameVerse</strong> &nbsp;—&nbsp; Founder & Creative Director &nbsp;·&nbsp; <code>Active</code></summary>
+
+<br/>
+
+Kerala-based cultural photography and creative studio. Specializing in cultural documentation — Theyyam, Kathakali, Mohiniyattam. Natural light, non-staged portraits. Operating across Kerala, Bangalore, and worldwide.
+
+| | |
+|:--|:--|
+| **Specialty** | Theyyam · Kathakali · Mohiniyattam · Cultural documentation |
+| **Style** | Natural light · Non-staged · Cinematic editorial |
+| **Built** | Full studio website · Yung.Krshn portfolio · Masonry gallery + lightbox |
+| **Reach** | Kerala · Bangalore · Worldwide |
+
+[![FrameVerse](https://img.shields.io/badge/FrameVerse-Contact-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/5yung.krshn)
+
+<br/>
+</details>
+
+---
+
+## &nbsp;Systems Built
 
 <details>
 <summary>&nbsp;<strong>SAHAYI</strong> &nbsp;—&nbsp; Kerala Panchayat Complaint Management System</summary>
 
 <br/>
 
-Civic infrastructure platform digitizing citizen grievance routing across Kerala's panchayat network. District-based complaint routing, FCM push notifications, role-based admin workflows, and multilingual support — built for real government deployment.
-
-<br/>
+Civic infrastructure platform digitizing citizen grievance routing across Kerala's panchayat network. District-based routing, FCM notifications, role-based admin workflows, multilingual support — built for real government deployment.
 
 | | |
 |:--|:--|
 | **Stack** | React Native · Supabase · PostgreSQL · Firebase Cloud Messaging |
 | **Scale** | Multi-district · Citizen + Officer + Admin roles |
-| **Performance** | Supabase Realtime · Sub-500ms notification delivery |
-| **Security** | Row-level security · JWT auth · Role-scoped data access |
-| **Impact** | Full complaint lifecycle — submission to resolution |
+| **Security** | Row-level security · JWT auth · Role-scoped data |
+| **Status** | Production-ready · PRD complete · Scaffolding in progress |
+
+[![Repo](https://img.shields.io/badge/Repository-SAHAYI-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/sahayi)
 
 <br/>
-
-[![View Repo](https://img.shields.io/badge/Repository-SAHAYI-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/sahayi)
-
-<br/>
-
-</details>
-
-<details>
-<summary>&nbsp;<strong>DFLMS</strong> &nbsp;—&nbsp; Deffenso Hackers Academy LMS</summary>
-
-<br/>
-
-Full-featured Learning Management System for Kerala's premier cybersecurity EdTech institution. Role-based access, progressive video unlocking, quiz engine, and automated certificate generation — wrapped in a dark hacker aesthetic UI.
-
-<br/>
-
-| | |
-|:--|:--|
-| **Stack** | React · Firebase · Firestore · Google Apps Script |
-| **Scale** | Multi-role — students, instructors, admins |
-| **Performance** | Lazy-loaded modules · Firebase CDN delivery |
-| **Security** | Firebase Auth · Role-scoped Firestore rules |
-| **Impact** | Live at deffenso.in + lms.deffenso.in |
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/Repository-DFLMS-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/dflms)
-
-<br/>
-
 </details>
 
 <details>
@@ -159,24 +215,37 @@ Full-featured Learning Management System for Kerala's premier cybersecurity EdTe
 
 <br/>
 
-AI-powered ethical hacking mentor for cybersecurity training institutes. Delivers CEH-aligned guidance on OSINT, penetration testing, and security tooling — scoped strictly to educational and authorized contexts. Multi-tenant, subscription-based.
-
-<br/>
+AI-powered ethical hacking mentor for cybersecurity training institutes. CEH-aligned guidance on OSINT, penetration testing, and security tooling — scoped strictly to educational and authorized contexts.
 
 | | |
 |:--|:--|
-| **Stack** | Next.js · Supabase · Anthropic Claude API · Razorpay |
-| **Scale** | Multi-tenant SaaS · Per-seat licensing model |
-| **Performance** | Streamed Claude responses · Persistent conversation threads |
-| **Security** | Institute-scoped isolation · Auth-gated routes · Ethical guardrails |
-| **Impact** | CEH-aligned AI tutor replacing generic LLMs in security education |
+| **Stack** | Next.js · Supabase · Claude Sonnet API · Razorpay |
+| **Model** | Multi-tenant SaaS · Per-seat licensing |
+| **Security** | Institute-scoped isolation · Ethical guardrails in system prompt |
+| **Status** | Launch phase · Architecture complete |
+
+[![Repo](https://img.shields.io/badge/Repository-CIPHER--AI-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/cipher-ai)
+
+<br/>
+</details>
+
+<details>
+<summary>&nbsp;<strong>Vidya AI</strong> &nbsp;—&nbsp; Bilingual Study Assistant</summary>
 
 <br/>
 
-[![View Repo](https://img.shields.io/badge/Repository-CIPHER--AI-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/cipher-ai)
+Malayalam + English AI study assistant built on Gemini 2.5 Pro with LangChain RAG pipeline. Designed for Kerala students — answers curriculum questions in their native language.
+
+| | |
+|:--|:--|
+| **Stack** | Python · Gemini 2.5 Pro · LangChain · Chroma · Firebase |
+| **Languages** | Malayalam · English |
+| **Architecture** | RAG pipeline · Vector store retrieval · Generative response |
+| **Status** | Prototype shipped · Active development |
+
+[![Repo](https://img.shields.io/badge/Repository-Vidya--AI-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/vidya-ai)
 
 <br/>
-
 </details>
 
 <details>
@@ -184,167 +253,72 @@ AI-powered ethical hacking mentor for cybersecurity training institutes. Deliver
 
 <br/>
 
-Production React Native fitness tracking app with GPS activity tracking, Firebase authentication, and RevenueCat-powered monetization. 15 fully designed screens. Cross-platform iOS + Android. Built for SouthernSide's wellness vertical.
-
-<br/>
+Production fitness tracking app with GPS, Firebase auth, and RevenueCat monetization. 15 screens. iOS + Android. Full monetization loop from free tier to premium.
 
 | | |
 |:--|:--|
-| **Stack** | React Native · Firebase · RevenueCat · Expo |
-| **Scale** | 15 screens · iOS + Android |
-| **Performance** | Real-time GPS · Background location tracking |
-| **Security** | Firebase Auth · Scoped user data |
-| **Impact** | Full monetization loop — free tier to premium subscriptions |
+| **Stack** | React Native · Expo · Firebase · RevenueCat |
+| **Scale** | 15 screens · Cross-platform |
+| **Monetization** | Free tier → Premium subscriptions via RevenueCat |
+| **Status** | Complete |
+
+[![Repo](https://img.shields.io/badge/Repository-WalkERA-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/walkera)
 
 <br/>
-
-[![View Repo](https://img.shields.io/badge/Repository-WalkERA-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/walkera)
-
-<br/>
-
 </details>
 
-<details>
-<summary>&nbsp;<strong>SouthernSide Cert System</strong> &nbsp;—&nbsp; Node.js · Supabase · React</summary>
+---
 
-<br/>
+## &nbsp;Experience Timeline
 
-Automated certificate management and public verification system for SouthernSide's AI education programs. Node.js / Express API + Supabase backend with a React CertDashboard for bulk issuance, revocation, and instant verification.
+```
+2019 ── Design Beginnings
+        Graphic design + visual communication.
+        Built the foundation of a 5+ year design career.
 
-<br/>
+2021 ── Motion & Video
+        After Effects · Premiere Pro · DaVinci Resolve.
+        3 years of professional video and motion work.
 
-| | |
-|:--|:--|
-| **Stack** | Node.js · Express · Supabase · PostgreSQL · React |
-| **Scale** | Bulk generation · Public verification endpoints |
-| **Performance** | Serverless-compatible · Fast Supabase queries |
-| **Security** | UUID tokens · Tamper detection · Public verify routes |
-| **Impact** | Zero manual workflows · Instant credential verification via URL |
+2022 ── Code + AI Begins
+        Web systems · Python · First AI API experiments.
+        Bridge between design and engineering forms.
 
-<br/>
+2024 ── Reset Phase
+        Strategic pause for clarity.
+        Emerged with sharper focus: AI-first + cybersecurity.
 
-[![View Repo](https://img.shields.io/badge/Repository-Cert--System-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT/southernside-certs)
+2025 ── FrameVerse + Deffenso Jr Developer
+        Founded FrameVerse.
+        Joined Deffenso as Jr Developer.
+        Deep AI research track — daily model testing + paper reading.
 
-<br/>
-
-</details>
-
-<br/>
+2026 ── Full AI Stack · AI Researcher · NOW
+        Shipping production infrastructure at Deffenso.
+        Building SouthernSide for AI literacy.
+        Deep into CEH prep.
+        Experimenting with frontier models daily.
+```
 
 ---
 
-## 󰓒 &nbsp;Experience
-
-**Head of Media & Frontend Developer** &nbsp;·&nbsp; Deffenso Hackers Academy &nbsp;·&nbsp; `Jan 2024 – Present`
-
-- Architected the full Deffenso website — dark cyberpunk SPA, mobile-first, `#007BFF` blue system
-- Built DFLMS with role-based access, video unlocking, quiz engine, and automated certificate generation
-- Designed all event collateral — DJEH brochure, course pages, certificate templates, founders section
-- Conducted authorized penetration testing on deffenso.in with full findings and remediation report
-
-![React](https://img.shields.io/badge/React-1e1b2e?style=flat-square&logo=react&logoColor=8b5cf6)
-![Firebase](https://img.shields.io/badge/Firebase-1e1b2e?style=flat-square&logo=firebase&logoColor=8b5cf6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1e1b2e?style=flat-square&logo=javascript&logoColor=8b5cf6)
-![Figma](https://img.shields.io/badge/Figma-1e1b2e?style=flat-square&logo=figma&logoColor=8b5cf6)
-![Linux](https://img.shields.io/badge/Linux-1e1b2e?style=flat-square&logo=linux&logoColor=8b5cf6)
-
-<br/>
-
-**Founder & Creative Director** &nbsp;·&nbsp; FrameVerse &nbsp;·&nbsp; `2023 – Present`
-
-- Built the complete FrameVerse studio website — cinematic editorial, Cormorant Garamond, gold accents
-- Documented Theyyam, Kathakali, and Aranmula Vallamkali through long-form cinematic photography
-- Designed the Yung.Krshn photography portfolio — masonry gallery, lightbox system, progressive UI
-
-![Figma](https://img.shields.io/badge/Figma-1e1b2e?style=flat-square&logo=figma&logoColor=8b5cf6)
-![Lightroom](https://img.shields.io/badge/Lightroom-1e1b2e?style=flat-square&logo=adobelightroom&logoColor=8b5cf6)
-![HTML5](https://img.shields.io/badge/HTML5-1e1b2e?style=flat-square&logo=html5&logoColor=8b5cf6)
-
-<br/>
-
-**Founder** &nbsp;·&nbsp; SouthernSide &nbsp;·&nbsp; `2024 – Present`
-
-- Built the SouthernSide website, trilingual company profile, and 12-week content calendar
-- Shipped Vidya AI chatbot, social analytics dashboard, and automated certificate system
-- Led WalkERA — full 15-screen React Native app with Firebase, GPS tracking, and RevenueCat
-
-![Next.js](https://img.shields.io/badge/Next.js-1e1b2e?style=flat-square&logo=nextdotjs&logoColor=8b5cf6)
-![Supabase](https://img.shields.io/badge/Supabase-1e1b2e?style=flat-square&logo=supabase&logoColor=8b5cf6)
-![React Native](https://img.shields.io/badge/React%20Native-1e1b2e?style=flat-square&logo=react&logoColor=8b5cf6)
-![Node.js](https://img.shields.io/badge/Node.js-1e1b2e?style=flat-square&logo=nodedotjs&logoColor=8b5cf6)
-
-<br/>
-
----
-
-## 󱉯 &nbsp;Achievements
+## &nbsp;Certifications
 
 <div align="center">
-
-| Recognition | Details |
-|:--|:--|
-| GovTech Architect | Designed SAHAYI — district-scale panchayat complaint system for Kerala |
-| Authorized Pentester | Conducted live pentest on deffenso.in with full findings report |
-| AI Product Developer | Shipped Claude API-powered tools across 3 organizations |
-| Mobile App Founder | Built and monetized WalkERA — 15 screens, GPS, RevenueCat |
-| Cybersecurity Educator | Active CEH track + CIPHER AI mentor platform |
-| Cultural Documentarian | Documented Theyyam · Kathakali · Aranmula Vallamkali |
-| Automation Engineer | GitHub Actions + Claude API + RSS autonomous content pipeline |
-| 5+ Yr Design Operator | EdTech · GovTech · SaaS · Cultural Media |
-
-</div>
-
-<br/>
-
----
-
-## 󰄬 &nbsp;Certifications
-
-<div align="center">
-
-**Cybersecurity & Networking**
 
 [![CEH](https://img.shields.io/badge/CEH-In%20Progress-8b5cf6?style=for-the-badge&logo=hackthebox&logoColor=white)](https://eccouncil.org)&nbsp;
 [![Cisco](https://img.shields.io/badge/Cisco-Networking%20Fundamentals-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://netacad.com)&nbsp;
 [![Cisco](https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-6366f1?style=for-the-badge&logo=cisco&logoColor=white)](https://netacad.com)
 
-<br/>
-
-**Cloud**
-
 [![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-8b5cf6?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)&nbsp;
-[![Oracle](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-6366f1?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
-
-<br/>
-
-**Academic**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-8b5cf6?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in)&nbsp;
-[![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6366f1?style=for-the-badge&logo=databricks&logoColor=white)](https://nptel.ac.in)&nbsp;
-[![NPTEL](https://img.shields.io/badge/NPTEL-Joy%20of%20Computing-8b5cf6?style=for-the-badge&logo=numpy&logoColor=white)](https://nptel.ac.in)
+[![Oracle](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-6366f1?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)&nbsp;
+[![NPTEL](https://img.shields.io/badge/NPTEL-Python%20%26%20DSA-8b5cf6?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in)
 
 </div>
 
-<br/>
-
 ---
 
-## 󰋊 &nbsp;Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8b5cf6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/X3DIT)&nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-6366f1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/X3DIT)&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8b5cf6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/X3DIT)&nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-6366f1?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/X3DIT)
-
-</div>
-
-<br/>
-
----
-
-## 󰄢 &nbsp;GitHub Analytics
+## &nbsp;GitHub Analytics
 
 <div align="center">
 
@@ -360,11 +334,9 @@ Automated certificate management and public verification system for SouthernSide
 
 </div>
 
-<br/>
-
 ---
 
-## 󱉸 &nbsp;Trophies
+## &nbsp;Trophies
 
 <div align="center">
 
@@ -372,11 +344,9 @@ Automated certificate management and public verification system for SouthernSide
 
 </div>
 
-<br/>
-
 ---
 
-## 󰊪 &nbsp;Contribution Activity
+## &nbsp;Contribution Activity
 
 <div align="center">
 
@@ -384,11 +354,9 @@ Automated certificate management and public verification system for SouthernSide
 
 </div>
 
-<br/>
-
 ---
 
-## 󱏿 &nbsp;Contribution Snake
+## &nbsp;Contribution Snake
 
 <div align="center">
 
@@ -400,62 +368,66 @@ Automated certificate management and public verification system for SouthernSide
 
 </div>
 
-<br/>
-
 ---
 
-## 󰋁 &nbsp;Current Focus
+## &nbsp;Current Focus
 
 ```yaml
-learning:
-  - CEH domain progression
-  - Supabase RLS + edge functions
-  - React Native native modules
-  - Anthropic tool use and multi-agent orchestration
+experimenting:
+  - Gemini 2.5 Pro         # daily model testing
+  - Claude Sonnet          # running in production
+  - RAG architecture       # vector DBs + retrieval pipelines
 
 building:
-  - SAHAYI      # Kerala panchayat system — production
-  - CIPHER AI   # B2B SaaS for cybersec institutes — launch phase
-  - NEXUS       # Personal productivity dashboard — planning
+  - SAHAYI                 # Kerala panchayat system
+  - CIPHER AI              # B2B cybersec SaaS — launch phase
+  - Vidya AI               # bilingual study assistant
+  - Deffenso LMS           # production infra
 
-exploring:
-  - GovTech infrastructure at district scale
-  - Pentest report generation as a SaaS vertical
-  - AI-native personal finance for the Indian market
-  - On-device inference with Ollama
+studying:
+  - CEH                    # active track
+  - Kali Linux             # network recon + OSINT
+  - LLM fine-tuning        # applied research
+
+following:
+  - Hugging Face
+  - Anthropic research
+  - OpenAI updates
 
 open_to:
-  - AI product engineering roles
-  - GovTech and civic tech collaborations
-  - Open source in AI tooling
-  - EdTech and cybersecurity ventures
+  - AI system design & integration
+  - Cybersecurity research & tools
+  - GovTech & rural tech solutions
+  - EdTech platforms & LMS
+  - Freelance frontend / full-stack
+  - Creative & media collaboration
 ```
-
-<br/>
 
 ---
 
-## 󰛻 &nbsp;Connect
+## &nbsp;Connect
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-hello%40yungkrshn.dev-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@yungkrshn.dev)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-x3dit-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/x3dit)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-X3DIT-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/X3DIT)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-yungkrshn.dev-6366f1?style=for-the-badge&logo=safari&logoColor=white)](https://yungkrshn.dev)
+[![Email](https://img.shields.io/badge/Email-manumadhav581%40gmail.com-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manumadhav581@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-madhav--manu-6366f1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madhav-manu)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@5yung.krshn-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/5yung.krshn)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%2075103%2083501-6366f1?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917510383501)
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-<sub><i>The systems you design outlast the slides you present. Build for permanence.</i></sub>
+<sub>You scrolled all the way down? Respect. Now go build something.</sub>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12,30&height=100&section=footer&animation=fadeIn" />
+
+<br/>
+
+<sub><i>Madhav Manu · Pathanamthitta, Kerala · © 2026 · All systems operational · Built with intent</i></sub>
 
 </div>
